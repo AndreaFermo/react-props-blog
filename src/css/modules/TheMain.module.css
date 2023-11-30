@@ -1,0 +1,9 @@
+.main{
+    background-color: #e3e3e3;
+    padding: 1rem 6rem 6rem;
+}
+
+.main .cardContainer {
+    @apply grid grid-cols-2 lg:grid-cols-4 gap-4;
+}
+

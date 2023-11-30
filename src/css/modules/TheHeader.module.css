@@ -1,0 +1,9 @@
+.header {
+ background-color: #e3e3e3;
+}
+
+.header h1 {
+    @apply text-center text-4xl font-semibold;
+    line-height: 80px;
+}
+

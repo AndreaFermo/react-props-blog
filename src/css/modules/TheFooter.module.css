@@ -1,0 +1,8 @@
+.footer {
+    background-color: #333333;
+    
+}
+
+.footer p {
+    @apply container text-center text-white px-7 py-8 align-middle m-auto;
+}
