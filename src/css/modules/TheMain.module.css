@@ -1,9 +1,9 @@
 .main{
     background-color: #e3e3e3;
-    padding: 1rem 6rem 6rem;
+    @apply py-6 px-2 md:px-6
 }
 
 .main .cardContainer {
-    @apply grid grid-cols-2 lg:grid-cols-4 gap-4;
+    @apply grid md:grid-cols-2 lg:grid-cols-4 gap-4;
 }
 
